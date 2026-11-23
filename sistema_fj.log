@@ -1,0 +1,14 @@
+2026-11-22 17:22:40,932 | INFO | Cliente registrado: [CL-001] Cliente: Laura Méndez | Doc: 1020304050 | Correo: laura.mendez@correo.com
+2026-11-22 17:22:40,932 | INFO | Servicio registrado: Sala 'Sala Reuniones Norte' (Capacidad: 10) | Tarifa base: $80.00 | Disponible
+2026-11-22 17:22:40,933 | INFO | Reserva RS-101 confirmada para Laura Méndez. Total: $342.72
+2026-11-22 17:22:40,933 | INFO | Auditoría reserva RS-101: estado actual='CONFIRMADA'.
+2026-11-22 17:22:40,933 | INFO | Reserva RS-102 confirmada para Laura Méndez. Total: $150.00
+2026-11-22 17:22:40,933 | INFO | Auditoría reserva RS-102: estado actual='CONFIRMADA'.
+2026-11-22 17:22:40,933 | INFO | Reserva RS-103 confirmada para Laura Méndez. Total: $300.00
+2026-11-22 17:22:40,933 | INFO | Auditoría reserva RS-103: estado actual='CONFIRMADA'.
+2026-11-22 17:22:40,934 | ERROR | Fallo de servicio al confirmar reserva RS-104: El servicio 'Auditorio Principal' (SV-SALA-2) no está disponible.
+2026-11-22 17:22:40,934 | INFO | Auditoría reserva RS-104: estado actual='CREADA'.
+2026-11-22 17:22:40,934 | INFO | Reserva RS-106 confirmada para Laura Méndez. Total: $80.00
+2026-11-22 17:22:40,934 | INFO | Auditoría reserva RS-106: estado actual='CONFIRMADA'.
+2026-11-22 17:22:40,934 | INFO | Reserva RS-106 cancelada correctamente.
+2026-11-22 17:22:40,934 | ERROR | Error al cancelar reserva RS-106: La reserva RS-106 ya se encuentra cancelada.
